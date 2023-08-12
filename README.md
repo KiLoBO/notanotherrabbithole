@@ -5,6 +5,8 @@
 # PenTest Snippits
 Below are snippits of commands and such that I reference frequently 
 
+## Pivoting and Proxychains
+
 # Personal Writeups/Scenarios :factory:
 
 
