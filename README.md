@@ -3,7 +3,7 @@
 # Cyber Security Resources :rocket:
 
 # PenTest Snippits
-Below are snippits of commands and such that I reference frequently 
+[Upgrading a Reverse Shell](PenTest Snippits/Upgrading RevShells)
 
 ## Pivoting and Proxychains
 
