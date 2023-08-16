@@ -2,11 +2,11 @@
 
 # Cyber Security Resources :rocket:
 
-# PenTest Snippits
+## PenTest Snippits
 
 ## Pivoting and Proxychains
 
-# Personal Writeups/Scenarios :factory:
+## Personal Writeups/Scenarios :factory:
 
 
 
