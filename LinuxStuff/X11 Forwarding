@@ -11,7 +11,8 @@ On Kali:
   - The -Y switch can also be used for a "trusted X forwarding session" however there isn't any real security enhancements over just using the -X switch over ssh.
 
 ## The Fun Stuff
-Now run any tool you want with their CLI command! 
+Now run any tool you want with their CLI command! Keep in mind, running it will take the entire terminal up so be sure to background the process in the command and/or use screens.
+![burpforwarded](https://imgur.com/a/oBmKZ6y)
 
 
 
