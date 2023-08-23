@@ -4,9 +4,9 @@
 
 ## PenTest Snippits
 
-## Pivoting and Proxychains
-
 ## Personal Writeups/Scenarios :factory:
+
+## Linux Stuff
 
 
 
